@@ -67,6 +67,15 @@ h3{
     color: #000000;
 }
 
+.web {
+    text-align: right;
+}
+
+
+.python {
+    text-align: left;
+}
+
 /* ******* Paragraph CSS ***** */
 p{
     font-size: 20px;
