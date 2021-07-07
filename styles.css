@@ -1,0 +1,153 @@
+body{
+
+    display: inline;
+    margin: 25%;
+    text-align: center;
+    font-family: Ubuntu;
+    font-weight: bold;
+    color: rgb(48, 47, 47);
+}
+
+.container{
+    width: 100%;
+    height: 200%;
+    background-color: rgb(147, 207, 231);
+    position: relative;
+    font-size: 187.5%;
+    font-family: Dancing Script;
+    text-align: center;
+}
+
+hr {
+    margin: 50px auto;
+    border: dotted rgb(0, 0, 0);
+    border-bottom: none;
+    width: 5%;
+    height: 10%;
+}
+
+/* *********** Heading Tags CSS ************ */
+h1{
+    margin-top: 50px auto 0 auto;
+    text-align: center;
+} 
+
+h2{
+    margin-top: 0px;
+    font-size: 2.1875rem;
+    font-weight: bolder;
+}
+
+h3{
+    color: rgb(81, 190, 233);
+    font-weight: bold;
+    font-size: 1.5625rem;
+    text-align: center;
+}
+
+
+.skill-row h3{
+    text-align: left;
+    margin-bottom: 0;
+    color: red;
+}
+
+.skills h1{
+    color:rgb(81, 190, 233) ;
+}
+
+.contact h1{
+    color: rgb(81, 190, 233);
+}
+
+.head{
+    font-family: Prompt;
+    font-size: 1.5625rem;
+    text-decoration: underline;
+    color: #000000;
+}
+
+/* ******* Paragraph CSS ***** */
+p{
+    font-size: 20px;
+}
+
+
+.skill-row p{
+    font-size: 15px;
+}
+
+
+/* ******* Image CSS ******* */
+.img1{
+    position: relative;
+    left: 250px;
+    width: 200px;
+}
+
+.img2{
+    position: absolute;
+    left: 100px;
+    top: 300px;
+    width: 200px;
+}
+
+.img3{
+    position: relative;
+    width: 200px;
+}
+
+.me img{
+    width: 20%;
+    border-radius: 40%;
+}
+
+.code-img {
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+
+.python-img {
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 0 auto;
+    text-align: left;
+    line-height: 2;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.btn {
+    -webkit-border-radius: 19;
+    -moz-border-radius: 19;
+    border-radius: 19px;
+    font-family: Arial;
+    color: #000000;
+    font-size: 19px;
+    background: #90dee8;
+    padding: 8px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+  }
+
+  .bottom-container{
+      background-color: cadetblue;
+  }
+
+  /* ********* Footer CSS ******** */
+
+.bottom-container a{
+    margin: 10px;
+}
+
+
